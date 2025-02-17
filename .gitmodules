@@ -1,0 +1,39 @@
+[submodule "calculator-layout"]
+	path = calculator-layout
+	url = https://github.com/GrodTheGreat/Calculator-Layout-iOS13.git
+[submodule "xylophone"]
+	path = xylophone
+	url = https://github.com/GrodTheGreat/Xylophone-iOS13.git
+[submodule "magic-8-ball"]
+	path = magic-8-ball
+	url = https://github.com/GrodTheGreat/Magic-8-Ball.git
+[submodule "i-am-rich"]
+	path = i-am-rich
+	url = https://github.com/GrodTheGreat/I-Am-Rich.git
+[submodule "i-am-poor"]
+	path = i-am-poor
+	url = https://github.com/GrodTheGreat/I-Am-Poor.git
+[submodule "flappy-swift"]
+	path = flappy-swift
+	url = https://github.com/GrodTheGreat/FlappySwift.git
+[submodule "dicee"]
+	path = dicee
+	url = https://github.com/GrodTheGreat/Dicee-iOS13.git
+[submodule "autolayout"]
+	path = autolayout
+	url = https://github.com/GrodTheGreat/AutoLayout-iOS13.git
+[submodule "egg-timer"]
+	path = egg-timer
+	url = https://github.com/GrodTheGreat/EggTimer-iOS13.git
+[submodule "destini"]
+	path = destini
+	url = https://github.com/GrodTheGreat/Destini-iOS13.git
+[submodule "quizzler-layout"]
+	path = quizzler-layout
+	url = https://github.com/GrodTheGreat/Quizzler-LayoutPractice-iOS13.git
+[submodule "classes-demo"]
+	path = classes-demo
+	url = https://github.com/GrodTheGreat/ClassesDemo.git
+[submodule "bmi-calculator"]
+	path = bmi-calculator
+	url = https://github.com/GrodTheGreat/BMI-Calculator-iOS13.git
