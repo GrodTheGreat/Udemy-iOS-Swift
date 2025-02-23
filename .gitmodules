@@ -37,3 +37,6 @@
 [submodule "bmi-calculator"]
 	path = bmi-calculator
 	url = https://github.com/GrodTheGreat/BMI-Calculator-iOS13.git
+[submodule "OptionalsDemo"]
+	path = OptionalsDemo
+	url = https://github.com/GrodTheGreat/OptionalsDemo
